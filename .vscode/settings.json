@@ -1,0 +1,11 @@
+{
+    "deno.enable": true,
+    "deno.unstable": true,
+    "cSpell.words": [
+        "deno",
+        "rospotrebnadzor"
+    ],
+    "files.exclude": {
+        "dataset": true
+    }
+}
